@@ -17,7 +17,7 @@
 
 # Lectures
 
-<a href=https://itunes.apple.com/us/course/coding-together-developing/id593208016>Stanford, Winter 2013</a>
+<a href=https://itunes.apple.com/us/course/developing-ios-7-apps-for/id733644550>Stanford, Fall 2013, iOS 7</a>
 
 # iOS/Mac dev blogs
 ## in english:
