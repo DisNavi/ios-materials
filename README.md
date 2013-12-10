@@ -29,7 +29,7 @@
 
 <a href=http://maniacdev.com/>ManiacDev</a> - куча UI controls и tutorials
 
-<a href=http://iosdeveloperzone.com/category/code-snippets/></a> - некоторые нетривиальные вещи
+<a href=http://iosdeveloperzone.com/category/code-snippets/>iOS developer zone</a> - некоторые нетривиальные вещи
 
 ## по-русски:
 <a href=http://touchdev.ru/>TouchDev.ru</a>
